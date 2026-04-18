@@ -1,4 +1,6 @@
 Flask
-requests
 pycryptodome
+requests
 protobuf
+PyJWT
+Flask-Caching
